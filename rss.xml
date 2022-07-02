@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Heroji treniraju uvek.</title>
+<link></link>
+<description>Novi planovi treninga.</description>
+
+<item>
+	<title>Ahilej</title>
+	<link></link>
+	<description>Plan treninga.</description>
+	<language>sr</language>
+</item>
+<item>
+	<title>Hektor</title>
+	<link></link>
+	<description>Plan treninga.</description>
+	<language>sr</language>
+</item>
+<item>
+	<title>Spartak</title>
+	<link></link>
+	<description>Plan treninga.</description>
+	<language>sr</language>
+</item>
+</channel>
+</rss>

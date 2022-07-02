@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>/index.html</loc>
+	<lastmod>2018-12-07</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>/treneri.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.85</priority>
+</url>
+<url>
+	<loc>/programi.html
+	</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.85</priority>
+</url>
+<url>
+	<loc>/gladijator.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>/amazonka.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>/crossfit.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>/functional.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>/kontakt.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>/autor.html</loc>
+	<lastmod>2019-12-07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
